@@ -1,0 +1,31 @@
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\Arduino\Arduino\bin\Debug\Arduino.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\Arduino\Arduino\bin\Debug\Arduino.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\Arduino\Arduino\bin\Debug\Arduino.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\Arduino\Arduino\obj\Debug\Arduino.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\Arduino\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\Arduino\Arduino\obj\Debug\Arduino.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\Arduino\Arduino\obj\Debug\Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\Arduino\Arduino\obj\Debug\Arduino.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\Arduino\Arduino\obj\Debug\Arduino.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\Arduino\Arduino\obj\Debug\Arduino.ArduinoIHM.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\Automacao\Arduino\bin\Debug\Arduino.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\Automacao\Arduino\bin\Debug\Arduino.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\Automacao\Arduino\bin\Debug\Arduino.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\Automacao\Arduino\obj\Debug\Arduino.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\Automacao\Arduino\obj\Debug\Arduino.ArduinoIHM.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\Automacao\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\Automacao\Arduino\obj\Debug\Arduino.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\Automacao\Arduino\obj\Debug\Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\Automacao\Arduino\obj\Debug\Arduino.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\Automacao\Arduino\obj\Debug\Arduino.pdb
+C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\bin\Debug\Arduino.exe.config
+C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\bin\Debug\Arduino.exe
+C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\bin\Debug\Arduino.pdb
+C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.exe.config
+C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.ArduinoIHM.resources
+C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.exe
+C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.pdb
