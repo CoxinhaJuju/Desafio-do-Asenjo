@@ -29,3 +29,14 @@ C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.csproj.
 C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.csproj.CoreCompileInputs.cache
 C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.exe
 C:\Users\diego\Desktop\C# do Desafio\Automacao\Arduino\obj\Debug\Arduino.pdb
+C:\Users\unisanta\Desktop\Desafio-do-Asenjo\Automacao\Arduino\bin\Debug\Arduino.exe.config
+C:\Users\unisanta\Desktop\Desafio-do-Asenjo\Automacao\Arduino\bin\Debug\Arduino.exe
+C:\Users\unisanta\Desktop\Desafio-do-Asenjo\Automacao\Arduino\bin\Debug\Arduino.pdb
+C:\Users\unisanta\Desktop\Desafio-do-Asenjo\Automacao\Arduino\obj\Debug\Arduino.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Desafio-do-Asenjo\Automacao\Arduino\obj\Debug\Arduino.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\Desafio-do-Asenjo\Automacao\Arduino\obj\Debug\Arduino.ArduinoIHM.resources
+C:\Users\unisanta\Desktop\Desafio-do-Asenjo\Automacao\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Desafio-do-Asenjo\Automacao\Arduino\obj\Debug\Arduino.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Desafio-do-Asenjo\Automacao\Arduino\obj\Debug\Arduino.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Desafio-do-Asenjo\Automacao\Arduino\obj\Debug\Arduino.exe
+C:\Users\unisanta\Desktop\Desafio-do-Asenjo\Automacao\Arduino\obj\Debug\Arduino.pdb

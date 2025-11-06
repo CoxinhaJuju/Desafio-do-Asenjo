@@ -47,12 +47,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArduinoBLL.cs" />
+    <Compile Include="ArduinoDAL.cs" />
     <Compile Include="ArduinoIHM.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ArduinoIHM.Designer.cs">
       <DependentUpon>ArduinoIHM.cs</DependentUpon>
     </Compile>
+    <Compile Include="Classes\Erro.cs" />
+    <Compile Include="Classes\Log.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ArduinoIHM.resx">
